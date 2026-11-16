@@ -61,16 +61,6 @@ API REST para gerenciamento de informações de um laboratório industrial.
 
 **Tecnologias:** JavaScript · Node.js · Express · MySQL · Postman
 
-### 🌱 [Primeira Rota - Backend](https://github.com/YasminLKawakame/Primeira-Rota-Backend)
-
-Projeto de API REST para gerenciamento de produtos, categorias e fornecedores.
-
-- Cadastro, listagem, consulta, atualização e exclusão.
-- Organização de rotas e recursos.
-- Testes de requisições HTTP.
-
-**Tecnologias:** JavaScript · Node.js · Express · Postman
-
 ### 📚 [Lógica de Programação](https://github.com/YasminLKawakame/Logica-Programacao)
 
 Repositório de estudos com atividades, exercícios, desafios e pequenos jogos desenvolvidos durante as aulas de lógica de programação.
