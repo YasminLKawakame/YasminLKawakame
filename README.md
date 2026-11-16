@@ -106,31 +106,6 @@ Repositório de estudos com atividades, exercícios, desafios e pequenos jogos d
 
 ---
 
-## 🌷 Estatísticas do GitHub
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YasminLKawakame&show_icons=true&theme=rose_pine&hide_border=true&title_color=D889AA&icon_color=D889AA&text_color=E6C9D5&bg_color=191724"
-    alt="Estatísticas do GitHub de Yasmin"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLKawakame&layout=compact&theme=rose_pine&hide_border=true&title_color=D889AA&text_color=E6C9D5&bg_color=191724"
-    alt="Linguagens mais utilizadas por Yasmin"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YasminLKawakame&theme=rose-pine&hide_border=true&ring=D889AA&fire=E6A6C2&currStreakLabel=D889AA"
-    width="70%"
-    alt="Sequência de contribuições de Yasmin"
-  />
-</div>
-
----
-
 ## 🌸 Vamos nos conectar?
 
 <div align="center">
