@@ -61,28 +61,6 @@ API REST para gerenciamento de informações de um laboratório industrial.
 
 **Tecnologias:** JavaScript · Node.js · Express · MySQL · Postman
 
-### 🎀 [SafeStock - Controle de EPIs](https://github.com/YasminLKawakame/SafeStock-Controle-EPIs)
-
-Sistema para gerenciamento de Equipamentos de Proteção Individual (EPIs) e funcionários.
-
-- Cadastro, consulta, atualização e exclusão de EPIs.
-- Gerenciamento de funcionários e seus status.
-- Organização em camadas: Model, Repository e Controller.
-- Prática de orientação a objetos e encapsulamento.
-
-**Tecnologias:** JavaScript · Node.js
-
-### 🌸 [ProdControl - Controle de Produção](https://github.com/YasminLKawakame/ProdControl-Controle-Basico-de-Producao)
-
-Sistema de gerenciamento básico de produção industrial.
-
-- Gerenciamento de máquinas, operadores e ordens de produção.
-- Operações CRUD para os recursos.
-- Ações para ligar/desligar máquinas, ativar/desativar operadores e iniciar/concluir ordens.
-- Separação de responsabilidades em camadas.
-
-**Tecnologias:** JavaScript · Node.js
-
 ### 🌱 [Primeira Rota - Backend](https://github.com/YasminLKawakame/Primeira-Rota-Backend)
 
 Projeto de API REST para gerenciamento de produtos, categorias e fornecedores.
