@@ -1,8 +1,8 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:E1BEE7&height=190&section=header&text=Yasmin%20Kawakame&fontSize=42&fontColor=70445D&fontAlignY=38&desc=My%20little%20corner%20of%20code&descSize=15&descAlignY=60&descColor=70445D"
+    src="./assets/sakura-header.svg"
     width="100%"
-    alt="Banner rosa com o nome Yasmin Kawakame"
+    alt="Yasmin Kawakame — My learning space. Banner rosa com pétalas de cerejeira caindo."
   />
   <h3>こんにちは! Welcome to my GitHub!</h3>
   <p><em>Learning, creating and growing one line of code at a time.</em></p>
@@ -31,20 +31,15 @@ ao longo dessa jornada.
 -   💻 Explorando desenvolvimento backend e APIs REST.
 -   📚 Praticando lógica de programação e resolução de problemas.
 -   🌱 Construindo projetos para transformar conhecimento em experiência.
--   🇯🇵 Apaixonada pela cultura japonesa.
+-   <img src="./assets/japan.svg" width="21" height="14" alt="Bandeira do Japão" /> Apaixonada pela cultura japonesa.
 
 ## 🎀 Tecnologias e ferramentas
 
 <div align="center">
-  <p><strong>Linguagem</strong></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript" />
-  <br />
-  <p><strong>Backend e banco de dados</strong></p>
   <img src="https://img.shields.io/badge/Node.js-83B77B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-D8A7BD?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MySQL-83AFC9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br />
-  <p><strong>Ferramentas</strong></p>
   <img src="https://img.shields.io/badge/Git-E89A83?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-8D7187?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-EE9874?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -111,6 +106,12 @@ Repositório de estudos com atividades, exercícios, desafios e pequenos jogos d
 <div align="center">
   <a href="https://github.com/YasminLKawakame">
     <img src="https://img.shields.io/badge/GitHub-Visite%20meu%20perfil-D889AA?style=for-the-badge&logo=github&logoColor=white" alt="Visite meu GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yasmin-kawakame-7a181a191/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vamos%20nos%20conectar-83AFC9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn" />
+  </a>
+  <a href="mailto:yasmin.kawakame@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Fale%20comigo-D889AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um email para yasmin.kawakame@gmail.com" />
   </a>
   <p><em>Every expert was once a beginner.</em></p>
   <p>🌸 がんばって！ Keep learning and growing! 🌸</p>
